@@ -17,7 +17,7 @@ I'am Taylan from Germany and I currently study Business Informatics. I really en
   
   💻 Docker,
 
-  🗎 JSON
+   🗎 JSON
   
 Contact Me [Linkedin](https://www.linkedin.com/in/taylan-özer-ab6890143/) 👨‍💻
 

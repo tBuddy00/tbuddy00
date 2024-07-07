@@ -21,11 +21,8 @@ I'am Taylan from Germany and I currently study Business Informatics. I really en
   
 Contact Me [Linkedin](https://www.linkedin.com/in/taylan-özer-ab6890143/) 👨‍💻
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tBuddy00)  
-
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tBuddy00)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tBuddy00)](https://github.com/anuraghazra/github-readme-stats)

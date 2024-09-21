@@ -7,19 +7,19 @@ I'am Taylan from Germany and I currently study Business Informatics. I really en
 
 ### Skills:
 
-  ☕ Java, 
+☕ Java, 
 
-  🗄️ SQL,
+🗄️ SQL,
 
-     Git
+  Git
 
 ### Experience:
 
-  🐍 Python, 
+🐍 Python, 
   
-  🐳 Docker,
+🐳 Docker,
 
-  📜 JSON
+📜 JSON
   
 Contact Me [Linkedin](https://www.linkedin.com/in/taylan-özer-ab6890143/) 👨‍💻
 

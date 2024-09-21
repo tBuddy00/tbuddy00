@@ -9,7 +9,9 @@ I'am Taylan from Germany and I currently study Business Informatics. I really en
 
   ☕ Java, 
 
-  🗄️ SQL
+  🗄️ SQL,
+
+     Git
 
 ### Experience:
 

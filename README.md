@@ -1,13 +1,13 @@
 # Business Informatics Student in Germany
 ## Hi there 👋, I'am Taylan Özer
 
-I'am Taylan from Germany and I currently study Business Informatics. I really enjoy working with MSSQL and Java. Besides I do also have eight month of work experience with Label Studio, which includes the work with Docker 🐳 (Docker Images and Docker Files) and Python 🐍.
+I'am Taylan from Germany and I currently study Business Informatics. I really enjoy working with SQL and Pyton. Besides I do also have eight month of work experience with Label Studio, which includes the work with Docker 🐳 (Docker Images and Docker Files) and Python 🐍.
 
 ### Skills & Experience: 
 
 ### Skills:
 
-☕ Java, 
+🐍 Python, 
 
 🗄️ SQL,
 
@@ -19,9 +19,7 @@ I'am Taylan from Germany and I currently study Business Informatics. I really en
 
 🐍 Python, 
   
-🐳 Docker,
-
-📜 JSON
+🐳 Docker
   
 Contact Me [Linkedin](https://www.linkedin.com/in/taylan-özer-ab6890143/) 👨‍💻
 

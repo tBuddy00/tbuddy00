@@ -1,13 +1,13 @@
 # Business Informatics Student in Germany
 ## Hi there 👋, I'am Taylan Özer
 
-I'm Taylan from Germany, currently studying Business Informatics. I especially enjoy working with Python, MYSQL and Docker! 
+I'm Taylan from Germany, currently studying Business Informatics. I especially enjoy working with Python, MySQL and Docker! 
 
 ### Skills & Experience: 
 
 🐍 Python, 
 
-🗄️ MYSQL,
+🗄️ MySQL,
 
 🐳 Docker,
 

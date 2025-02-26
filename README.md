@@ -5,8 +5,6 @@ I'm Taylan from Germany, currently studying Business Informatics. I especially e
 
 ### Skills & Experience: 
 
-### Skills:
-
 🐍 Python, 
 
 🗄️ MYSQL,

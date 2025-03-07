@@ -7,7 +7,7 @@ I'm Taylan from Germany, currently studying Business Informatics. I especially e
 
 🐍 Python, 
 
-🗄️ MySQL,
+🗄️ MySQL/MSSQL,
 
 🐳 Docker,
 

@@ -1,22 +1,19 @@
-# Business Informatics Student in Germany
-## Hi there 👋, I'am Taylan Özer
+# 👨‍🎓 Business Informatics Student from Germany
 
-I'm Taylan from Germany, currently studying Business Informatics. I especially enjoy working with Python, MySQL and Docker! 
+## 👋 Hi there, I'm Taylan Özer
 
-### Skills & Experience: 
+I'm a passionate student of Business Informatics based in Germany 🇩🇪.
 
-🐍 Python, 
+I love working on real-world problems using:
 
-🗄️ MySQL/MSSQL,
+* 🐍 Python for scripting and automation,
 
-🐳 Docker,
+* 🐘 PHP for backend development,
 
-🖥️  Git
+* 🗄️ MySQL/MSSQL for database management,
 
-Contact Me [Linkedin](https://www.linkedin.com/in/taylan-özer-ab6890143/) 👨‍💻
+* 🐳 Docker for containerization,
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tBuddy00)  
+* 🖥️ Git for version control
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tBuddy00)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tBuddy00)](https://github.com/anuraghazra/github-readme-stats)
